@@ -27,10 +27,10 @@ class AccountActivity : AppCompatActivity() {
             val txtPassword: EditText = findViewById(R.id.editTextPassword)
             val txtLevel: EditText = findViewById(R.id.editTextLevel)
 
-            txtNama.setText(LoginActivity.name)
+            /*txtNama.setText(LoginActivity.name)
             txtEmail.setText(LoginActivity.email)
             txtPassword.setText(LoginActivity.password)
-            txtLevel.setText(LoginActivity.level)
+            txtLevel.setText(LoginActivity.level)*/
 
             //implicit intent
             //call dia number activity
